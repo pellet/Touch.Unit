@@ -99,6 +99,13 @@ class SimpleListener {
 		return 0;
 	}
 
+	/// <summary>
+	/// Processes x unit device runner log.
+	/// If "Failed: 0" is not returned, it will return false, 
+	/// since some tests have failed or another error occured.
+	/// </summary>
+	/// <param name="client"></param>
+	/// <returns></returns>
 	public bool Processing (TcpClient client)
 	{
 		string logfile = Path.Combine (LogPath, LogFile ?? DateTime.UtcNow.Ticks.ToString () + ".log");
@@ -109,8 +116,9 @@ class SimpleListener {
 		using (FileStream fs = File.OpenWrite (logfile)) {
 			// a few extra bits of data only available from this side
 			string header = String.Format ("[Local Date/Time:\t{1}]{0}[Remote Address:\t{2}]{0}", 
-				Environment.NewLine, DateTime.Now, remote);
-			byte[] array = Encoding.UTF8.GetBytes (header);
+                                           Environment.NewLine, DateTime.Now, remote);
+            Console.WriteLine(header);
+			byte[] array = Encoding.UTF8.GetBytes (header); 
 			fs.Write (array, 0, array.Length);
 			fs.Flush ();
 			// now simply copy what we receive
@@ -118,10 +126,13 @@ class SimpleListener {
 			int total = 0;
 			NetworkStream stream = client.GetStream ();
 			while ((i = stream.Read (buffer, 0, buffer.Length)) != 0) {
+                Console.WriteLine(Encoding.UTF8.GetString(buffer, 0, buffer.Length));
 				fs.Write (buffer, 0, i);
 				fs.Flush ();
 				total += i;
 			}
+
+			return File.ReadAllText(logfile).Contains("Failed: 0");
 			
 			if (total < 16) {
 				// This wasn't a test run, but a connection from the app (on device) to find
@@ -163,7 +174,7 @@ class SimpleListener {
 			{ "h|?|help", "Display help", v => help = true },
 			{ "verbose", "Display verbose output", v => verbose = true },
 			{ "ip", "IP address to listen (default: Any)", v => address = v },
-			{ "port", "TCP port to listen (default: Any)", v => port = v },
+			{ "port=", "TCP port to listen (default: Any)", v => port = v },
 			{ "logpath", "Path to save the log files (default: .)", v => log_path = v },
 			{ "logfile=", "Filename to save the log to (default: automatically generated)", v => log_file = v },
 			{ "launchdev=", "Run the specified app on a device (specify using bundle identifier)", v => launchdev = v },

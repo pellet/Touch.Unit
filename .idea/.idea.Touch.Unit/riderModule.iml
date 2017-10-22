@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Api/ResultStateTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Api/ResultStateTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/ArrayEqualsFailureMessageFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/ArrayEqualsFailureMessageFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/ArrayEqualsFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/ArrayEqualsFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/ArrayNotEqualFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/ArrayNotEqualFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/AssertFailTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/AssertFailTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/AssertIgnoreTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/AssertIgnoreTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/AssertInconclusiveTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/AssertInconclusiveTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/AssertPassTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/AssertPassTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/AssertThatTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/AssertThatTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/AssertThrowsTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/AssertThrowsTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/AssumeThatTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/AssumeThatTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/AsyncThrowsTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/AsyncThrowsTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/CollectionTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/CollectionTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/ConditionAssertTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/ConditionAssertTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/EqualsFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/EqualsFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/MessageChecker.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/MessageChecker.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/NotEqualFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/NotEqualFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/NotSameFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/NotSameFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/NullableTypesTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/NullableTypesTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/SameFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Assertions/SameFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/ApplyToTestTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/ApplyToTestTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/AttributeInheritanceTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/AttributeInheritanceTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/CategoryAttributeTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/CategoryAttributeTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/CombinatorialTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/CombinatorialTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/DatapointTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/DatapointTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/DescriptionTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/DescriptionTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/ExpectedExceptionTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/ExpectedExceptionTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/FixtureSetUpTearDownTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/FixtureSetUpTearDownTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/MaxTimeTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/MaxTimeTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/PairwiseTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/PairwiseTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/ParameterizedTestFixtureTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/ParameterizedTestFixtureTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/PropertyAttributeTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/PropertyAttributeTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/RepeatedTestTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/RepeatedTestTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/SetCultureAttributeTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/SetCultureAttributeTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/TestCaseAttributeTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/TestCaseAttributeTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/TestCaseSourceTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/TestCaseSourceTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/TestDummy.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/TestDummy.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/TestFixtureAttributeTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/TestFixtureAttributeTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/TheoryTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/TheoryTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/TimeoutTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/TimeoutTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/ValueSourceTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/ValueSourceTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/ValuesAttributeTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Attributes/ValuesAttributeTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/AllItemsConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/AllItemsConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/AndConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/AndConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/AssignableFromConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/AssignableFromConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/AssignableToConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/AssignableToConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/AsyncDelayedConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/AsyncDelayedConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/AttributeExistsConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/AttributeExistsConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/BasicConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/BasicConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/BinarySerializableTest.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/BinarySerializableTest.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/CollectionContainsConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/CollectionContainsConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/CollectionEquivalentConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/CollectionEquivalentConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/CollectionOrderedConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/CollectionOrderedConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/CollectionSubsetConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/CollectionSubsetConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/ComparisonConstraintTest.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/ComparisonConstraintTest.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/ConstraintTestBase.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/ConstraintTestBase.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/DelayedConstraintTest.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/DelayedConstraintTest.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/EmptyConstraintTest.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/EmptyConstraintTest.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/EndsWithConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/EndsWithConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/EqualConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/EqualConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/ExactCountConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/ExactCountConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/ExactTypeConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/ExactTypeConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/FloatingPointNumericsTest.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/FloatingPointNumericsTest.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/GreaterThanConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/GreaterThanConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/GreaterThanOrEqualConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/GreaterThanOrEqualConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/InstanceOfTypeConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/InstanceOfTypeConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/LessThanConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/LessThanConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/LessThanOrEqualConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/LessThanOrEqualConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/MessageWriterTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/MessageWriterTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/MsgUtilTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/MsgUtilTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/NUnitComparerTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/NUnitComparerTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/NUnitEqualityComparerTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/NUnitEqualityComparerTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/NotConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/NotConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/NumericsTest.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/NumericsTest.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/OrConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/OrConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/PathConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/PathConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/PredicateConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/PredicateConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/PropertyTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/PropertyTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/RangeConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/RangeConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/RangeTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/RangeTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/ReusableConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/ReusableConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/SameAsTest.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/SameAsTest.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/StartsWithConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/StartsWithConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/SubstringConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/SubstringConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/TestDelegates.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/TestDelegates.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/ThrowsConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/ThrowsConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/ToStringTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/ToStringTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/UniqueItemsConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/UniqueItemsConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/XmlSerializableTest.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Constraints/XmlSerializableTest.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/AssemblyHelperTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/AssemblyHelperTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/AsyncTestMethodTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/AsyncTestMethodTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/CultureSettingAndDetectionTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/CultureSettingAndDetectionTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/DeduceTypeArgsFromArgs.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/DeduceTypeArgsFromArgs.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/GenericTestFixtureTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/GenericTestFixtureTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/GenericTestMethodTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/GenericTestMethodTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/NUnitTestCaseBuilderTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/NUnitTestCaseBuilderTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/PlatformDetectionTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/PlatformDetectionTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/PropertyBagTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/PropertyBagTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/RandomGeneratorTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/RandomGeneratorTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/RandomizerTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/RandomizerTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/RuntimeFrameworkTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/RuntimeFrameworkTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/SetUpTest.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/SetUpTest.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/SimpleGenericMethods.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/SimpleGenericMethods.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/TestExecutionContextTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/TestExecutionContextTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/TestFixtureTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/TestFixtureTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/TestMethodSignatureTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/TestMethodSignatureTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/TestResultTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/TestResultTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/TestXmlTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/TestXmlTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/TextMessageWriterTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/TextMessageWriterTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/TypeParameterUsedWithTestMethod.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Internal/TypeParameterUsedWithTestMethod.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Properties/AppManifest.xml">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Properties/AppManifest.xml" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Properties/OutOfBrowserSettings.xml">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Properties/OutOfBrowserSettings.xml" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/AfterTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/AfterTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/ArbitraryConstraintMatching.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/ArbitraryConstraintMatching.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/CollectionTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/CollectionTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/ComparisonTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/ComparisonTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/EqualityTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/EqualityTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/OperatorOverrides.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/OperatorOverrides.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/OperatorTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/OperatorTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/PathConstraintTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/PathConstraintTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/PropertyTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/PropertyTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/SerializableConstraints.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/SerializableConstraints.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/SimpleConstraints.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/SimpleConstraints.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/StringConstraints.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/StringConstraints.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/SyntaxTest.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/SyntaxTest.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/ThrowsTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/ThrowsTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/TypeConstraints.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/Syntax/TypeConstraints.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/Collections/SimpleObjectCollection.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/Collections/SimpleObjectCollection.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/Collections/SimpleObjectList.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/Collections/SimpleObjectList.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/Comparers/AlwaysEqualComparer.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/Comparers/AlwaysEqualComparer.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/Comparers/SimpleEqualityComparer.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/Comparers/SimpleEqualityComparer.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/Comparers/SimpleObjectComparer.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/Comparers/SimpleObjectComparer.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/ResultSummary.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/ResultSummary.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/TestAssert.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/TestAssert.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/TestBuilder.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/TestBuilder.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/TestComparer.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/TestComparer.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/TestDelegates.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/TestDelegates.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/TestFinder.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/TestFinder.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/UniqueValues.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/TestUtilities/UniqueValues.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/framework/StackFilterTest.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/framework/StackFilterTest.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/framework/SyntaxTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/framework/SyntaxTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/framework/TestContextTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/framework/TestContextTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/framework/TestResultTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/Tests/framework/TestResultTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/AssemblyInfo.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/AssemblyInfo.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/AssertCountFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/AssertCountFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/AssertFailFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/AssertFailFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/AssertIgnoreData.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/AssertIgnoreData.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/AsyncDummyFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/AsyncDummyFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/AsyncRealFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/AsyncRealFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/AttributeInheritanceData.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/AttributeInheritanceData.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/CategoryAttributeData.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/CategoryAttributeData.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/CultureAttributeData.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/CultureAttributeData.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/DatapointFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/DatapointFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/DescriptionFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/DescriptionFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/ExpectedExceptionData.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/ExpectedExceptionData.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/FixtureSetUpTearDownData.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/FixtureSetUpTearDownData.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/MaxTimeFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/MaxTimeFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/ParameterizedTestFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/ParameterizedTestFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/PropertyAttributeTests.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/PropertyAttributeTests.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/RepeatedTestFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/RepeatedTestFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/SetUpData.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/SetUpData.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/TestCaseAttributeFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/TestCaseAttributeFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/TestCaseSourceAttributeFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/TestCaseSourceAttributeFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/TestContextData.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/TestContextData.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/TestFixtureData.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/TestFixtureData.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/TestMethodSignatureFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/TestMethodSignatureFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/TheoryFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/TheoryFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/TimeoutFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../NUnitLite/NUnitLite-1.0.0/src/testdata/TimeoutFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../.." isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../NUnitLite/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../NUnitLite/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Touch.Server/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Touch.Server/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../monotouch.tests/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../monotouch.tests/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ExpectedExceptionData.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ExpectedExceptionData.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/IParameterDataSource.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/IParameterDataSource.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/IPropertyBag.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/IPropertyBag.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITest.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITest.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITestAssemblyBuilder.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITestAssemblyBuilder.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITestAssemblyRunner.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITestAssemblyRunner.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITestCaseData.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITestCaseData.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITestCaseSource.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITestCaseSource.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITestCaseSourceProvider.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITestCaseSourceProvider.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITestFilter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITestFilter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITestListener.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITestListener.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITestResult.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ITestResult.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/IXmlNodeBuilder.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/IXmlNodeBuilder.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/PropertyEntry.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/PropertyEntry.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ResultState.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/ResultState.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/RunState.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/RunState.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/TestOutput.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/TestOutput.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/TestStatus.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/TestStatus.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/XmlNode.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Api/XmlNode.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/AssemblyInfo.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/AssemblyInfo.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Assert.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Assert.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/AssertionHelper.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/AssertionHelper.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Assume.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Assume.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/CategoryAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/CategoryAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/CombinatorialAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/CombinatorialAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/CultureAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/CultureAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/DataAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/DataAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/DatapointAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/DatapointAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/DatapointSourceAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/DatapointSourceAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/DatapointsAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/DatapointsAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/DescriptionAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/DescriptionAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/ExpectedExceptionAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/ExpectedExceptionAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/ExplicitAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/ExplicitAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/IgnoreAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/IgnoreAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/IncludeExcludeAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/IncludeExcludeAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/MaxTimeAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/MaxTimeAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/NUnitAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/NUnitAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/PairwiseAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/PairwiseAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/PlatformAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/PlatformAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/PropertyAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/PropertyAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/RandomAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/RandomAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/RangeAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/RangeAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/RepeatAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/RepeatAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/SequentialAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/SequentialAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/SetCultureAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/SetCultureAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/SetUICultureAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/SetUICultureAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/SetUpAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/SetUpAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TearDownAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TearDownAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TestAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TestAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TestCaseAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TestCaseAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TestCaseSourceAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TestCaseSourceAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TestFixtureAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TestFixtureAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TestFixtureSetUpAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TestFixtureSetUpAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TestFixtureTearDownAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TestFixtureTearDownAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TheoryAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TheoryAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TimeoutAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/TimeoutAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/ValueSourceAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/ValueSourceAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/ValuesAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Attributes/ValuesAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Compatibility/SerializableAttribute.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Compatibility/SerializableAttribute.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/AllItemsConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/AllItemsConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/AndConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/AndConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/AssignableFromConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/AssignableFromConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/AssignableToConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/AssignableToConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/AttributeConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/AttributeConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/AttributeExistsConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/AttributeExistsConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/BasicConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/BasicConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/BinaryConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/BinaryConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/BinarySerializableConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/BinarySerializableConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/CollectionConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/CollectionConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/CollectionContainsConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/CollectionContainsConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/CollectionEquivalentConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/CollectionEquivalentConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/CollectionItemsEqualConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/CollectionItemsEqualConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/CollectionOrderedConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/CollectionOrderedConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/CollectionSubsetConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/CollectionSubsetConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/CollectionTally.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/CollectionTally.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ComparisonAdapter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ComparisonAdapter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ComparisonConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ComparisonConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Constraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Constraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ConstraintBuilder.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ConstraintBuilder.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ConstraintExpression.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ConstraintExpression.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ConstraintExpressionBase.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ConstraintExpressionBase.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ConstraintFactory.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ConstraintFactory.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ContainsConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ContainsConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/DelayedConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/DelayedConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/EmptyCollectionConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/EmptyCollectionConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/EmptyConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/EmptyConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/EmptyDirectoryConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/EmptyDirectoryConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/EmptyStringConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/EmptyStringConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/EndsWithConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/EndsWithConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/EqualConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/EqualConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/EqualityAdapter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/EqualityAdapter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ExactCountConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ExactCountConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ExactTypeConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ExactTypeConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ExceptionTypeConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ExceptionTypeConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/FailurePoint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/FailurePoint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/FalseConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/FalseConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/FloatingPointNumerics.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/FloatingPointNumerics.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/GreaterThanConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/GreaterThanConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/GreaterThanOrEqualConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/GreaterThanOrEqualConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/IResolveConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/IResolveConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/InstanceOfTypeConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/InstanceOfTypeConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/LessThanConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/LessThanConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/LessThanOrEqualConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/LessThanOrEqualConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/MessageWriter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/MessageWriter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/MsgUtils.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/MsgUtils.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/NUnitComparer.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/NUnitComparer.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/NUnitEqualityComparer.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/NUnitEqualityComparer.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/NaNConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/NaNConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/NoItemConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/NoItemConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/NotConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/NotConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/NullConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/NullConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/NullOrEmptyStringConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/NullOrEmptyStringConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Numerics.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Numerics.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/AllOperator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/AllOperator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/AndOperator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/AndOperator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/AttributeOperator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/AttributeOperator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/BinaryOperator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/BinaryOperator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/CollectionOperator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/CollectionOperator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/ConstraintOperator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/ConstraintOperator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/ExactCountOperator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/ExactCountOperator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/NoneOperator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/NoneOperator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/NotOperator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/NotOperator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/OrOperator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/OrOperator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/PrefixOperator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/PrefixOperator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/PropOperator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/PropOperator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/SelfResolvingOperator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/SelfResolvingOperator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/SomeOperator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/SomeOperator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/ThrowsOperator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/ThrowsOperator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/WithOperator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Operators/WithOperator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/OrConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/OrConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/PathConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/PathConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/PredicateConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/PredicateConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/PrefixConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/PrefixConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/PropertyConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/PropertyConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/PropertyExistsConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/PropertyExistsConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/RangeConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/RangeConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/RegexConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/RegexConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ResolvableConstraintExpression.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ResolvableConstraintExpression.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ReusableConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ReusableConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/SameAsConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/SameAsConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/SamePathConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/SamePathConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/SamePathOrUnderConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/SamePathOrUnderConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/SomeItemsConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/SomeItemsConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/StartsWithConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/StartsWithConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/StringConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/StringConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/SubPathConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/SubPathConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/SubstringConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/SubstringConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ThrowsConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ThrowsConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ThrowsNothingConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ThrowsNothingConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Tolerance.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/Tolerance.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ToleranceMode.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/ToleranceMode.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/TrueConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/TrueConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/TypeConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/TypeConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/UniqueItemsConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/UniqueItemsConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/XmlSerializableConstraint.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Constraints/XmlSerializableConstraint.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Contains.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Contains.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Env.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Env.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Exceptions/AssertionException.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Exceptions/AssertionException.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Exceptions/IgnoreException.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Exceptions/IgnoreException.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Exceptions/InconclusiveException.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Exceptions/InconclusiveException.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Exceptions/SuccessException.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Exceptions/SuccessException.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Extensibility/IParameterDataProvider.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Extensibility/IParameterDataProvider.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Extensibility/ISuiteBuilder.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Extensibility/ISuiteBuilder.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Extensibility/ITestCaseBuilder.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Extensibility/ITestCaseBuilder.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Extensibility/ITestCaseProvider.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Extensibility/ITestCaseProvider.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/FinallyDelegate.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/FinallyDelegate.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/GlobalSettings.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/GlobalSettings.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Guard.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Guard.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Has.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Has.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/IExpectException.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/IExpectException.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/AssemblyHelper.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/AssemblyHelper.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/AsyncInvocationRegion.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/AsyncInvocationRegion.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/AsyncSynchronizationContext.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/AsyncSynchronizationContext.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/CombinatorialStrategy.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/CombinatorialStrategy.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/CombinatorialTestCaseProvider.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/CombinatorialTestCaseProvider.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/CombiningStrategy.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/CombiningStrategy.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/DataAttributeTestCaseProvider.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/DataAttributeTestCaseProvider.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/DatapointProvider.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/DatapointProvider.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/NUnitTestCaseBuilder.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/NUnitTestCaseBuilder.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/NUnitTestFixtureBuilder.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/NUnitTestFixtureBuilder.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/PairwiseStrategy.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/PairwiseStrategy.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/ParameterDataProvider.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/ParameterDataProvider.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/ProviderCache.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/ProviderCache.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/SequentialStrategy.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Builders/SequentialStrategy.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/ApplyChangesToContextCommand.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/ApplyChangesToContextCommand.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/CommandDecoratorList.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/CommandDecoratorList.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/CommandStage.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/CommandStage.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/DelegatingTestCommand.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/DelegatingTestCommand.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/ExpectedExceptionCommand.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/ExpectedExceptionCommand.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/ICommandDecorator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/ICommandDecorator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/MaxTimeCommand.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/MaxTimeCommand.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/OneTimeSetUpCommand.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/OneTimeSetUpCommand.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/OneTimeTearDownCommand.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/OneTimeTearDownCommand.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/RepeatedTestCommand.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/RepeatedTestCommand.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/SetUpTearDownCommand.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/SetUpTearDownCommand.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/SkipCommand.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/SkipCommand.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/TestCommand.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/TestCommand.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/TestMethodCommand.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/TestMethodCommand.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/TheoryResultCommand.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Commands/TheoryResultCommand.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/CultureDetector.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/CultureDetector.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/ExceptionHelper.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/ExceptionHelper.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Extensibility/ParameterDataProviders.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Extensibility/ParameterDataProviders.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Extensibility/TestCaseProviders.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Extensibility/TestCaseProviders.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Filters/AndFilter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Filters/AndFilter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Filters/CategoryExpression.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Filters/CategoryExpression.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Filters/CategoryFilter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Filters/CategoryFilter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Filters/NotFilter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Filters/NotFilter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Filters/OrFilter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Filters/OrFilter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Filters/SimpleCategoryExpression.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Filters/SimpleCategoryExpression.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Filters/SimpleNameFilter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Filters/SimpleNameFilter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/IApplyToContext.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/IApplyToContext.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/IApplyToTest.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/IApplyToTest.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/InvalidTestFixtureException.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/InvalidTestFixtureException.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/MethodHelper.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/MethodHelper.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/NUnitException.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/NUnitException.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/NUnitLiteTestAssemblyBuilder.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/NUnitLiteTestAssemblyBuilder.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/NUnitLiteTestAssemblyRunner.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/NUnitLiteTestAssemblyRunner.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/OSPlatform.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/OSPlatform.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/ParameterSet.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/ParameterSet.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/PlatformHelper.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/PlatformHelper.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/PropertyBag.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/PropertyBag.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/PropertyNames.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/PropertyNames.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/RandomGenerator.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/RandomGenerator.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Randomizer.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Randomizer.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Reflect.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Reflect.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Results/TestCaseResult.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Results/TestCaseResult.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Results/TestResult.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Results/TestResult.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Results/TestSuiteResult.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Results/TestSuiteResult.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/RuntimeFramework.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/RuntimeFramework.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/StackFilter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/StackFilter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/StringUtil.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/StringUtil.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/TestExecutionContext.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/TestExecutionContext.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/TestFilter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/TestFilter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/TestFixtureBuilder.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/TestFixtureBuilder.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/TestListener.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/TestListener.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Tests/ParameterizedFixtureSuite.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Tests/ParameterizedFixtureSuite.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Tests/ParameterizedMethodSuite.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Tests/ParameterizedMethodSuite.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Tests/Test.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Tests/Test.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Tests/TestAssembly.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Tests/TestAssembly.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Tests/TestFixture.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Tests/TestFixture.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Tests/TestMethod.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Tests/TestMethod.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Tests/TestSuite.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/Tests/TestSuite.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/TextMessageWriter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/TextMessageWriter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/ThreadUtility.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/ThreadUtility.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/TypeHelper.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/TypeHelper.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/WorkItems/CompositeWorkItem.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/WorkItems/CompositeWorkItem.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/WorkItems/CountdownEvent.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/WorkItems/CountdownEvent.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/WorkItems/SimpleWorkItem.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/WorkItems/SimpleWorkItem.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/WorkItems/WorkItem.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/WorkItems/WorkItem.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/WorkItems/WorkItemState.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Internal/WorkItems/WorkItemState.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Is.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Is.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Iz.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Iz.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/ListMapper.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/ListMapper.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/MessageMatch.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/MessageMatch.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/ObjectList.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/ObjectList.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/CommandLineOptions.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/CommandLineOptions.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/ConsoleWriter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/ConsoleWriter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/DebugWriter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/DebugWriter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/OutputWriters/NUnit2XmlOutputWriter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/OutputWriters/NUnit2XmlOutputWriter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/OutputWriters/NUnit3XmlOutputWriter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/OutputWriters/NUnit3XmlOutputWriter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/OutputWriters/OutputWriter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/OutputWriters/OutputWriter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/ResultReporter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/ResultReporter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/ResultSummary.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/ResultSummary.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/TcpWriter.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/TcpWriter.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/TextUI.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Runner/TextUI.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/SpecialValue.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/SpecialValue.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/TestCaseData.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/TestCaseData.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/TestContext.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/TestContext.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Throws.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/Throws.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunit.snk">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunit.snk" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-2.0.csproj">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-2.0.csproj" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-3.5.csproj">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-3.5.csproj" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-4.0.csproj">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-4.0.csproj" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-4.5.csproj">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-4.5.csproj" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-netcf-2.0.csproj">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-netcf-2.0.csproj" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-netcf-3.5.csproj">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-netcf-3.5.csproj" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-sl-3.0.csproj">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-sl-3.0.csproj" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-sl-4.0.csproj">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-sl-4.0.csproj" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-sl-5.0.csproj">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite-sl-5.0.csproj" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite.framework.build">
+      <sourceFolder url="file://$MODULE_DIR$/../../../mono/external/nunit-lite/NUnitLite-1.0.0/src/framework/nunitlite.framework.build" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
